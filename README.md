@@ -1,2 +1,0 @@
-# yimixian
-my first project
